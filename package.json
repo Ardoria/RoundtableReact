@@ -1,0 +1,22 @@
+{
+  "name": "roundtablereact",
+  "version": "1.0.0",
+  "description": "projet jdr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardoria/RoundtableReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ardoria/RoundtableReact/issues"
+  },
+  "homepage": "https://github.com/Ardoria/RoundtableReact#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
